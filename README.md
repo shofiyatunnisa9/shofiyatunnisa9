@@ -65,4 +65,14 @@
 
 ### 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiyatunnisa9&layout=compact&card_width=700&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiyatunnisa9&layout=compact&card_width=800&theme=graywhite)
+
+---
+
+### GitHub Contribution Pacman
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shofiyatunnisa9/shofiyatunnisa9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shofiyatunnisa9/shofiyatunnisa9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shofiyatunnisa9/shofiyatunnisa9/output/pacman-contribution-graph.svg">
+</picture>
