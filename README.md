@@ -6,9 +6,10 @@
 
 ## 🧠 About Me
 
-🌸 I'm a developer who loves crafting modern web apps using **React**, **Next.js**, and **TypeScript**.  
-💡 Currently exploring backend development with **Node.js** and **Prisma ORM**.  
-🚀 Always excited to learn new things and improve my skills every day.
+🎓 I’m an Informatics Engineering graduate who is actively growing and learning as a Full Stack Developer.
+💻 **Deeply fascinated by web development** - dedicated to crafting clean, user-centric applications that solve real problems.  
+🌱 **Committed to lifelong learning** - constantly exploring new technologies and frameworks to build a strong technical foundation.  
+🚀 **Growth through consistency** - I believe curiosity and daily improvement are the keys to becoming a better developer.
 
 ---
 
