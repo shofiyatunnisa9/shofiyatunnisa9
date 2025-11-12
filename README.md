@@ -69,7 +69,7 @@
 
 ---
 
-### GitHub Contribution Pacman
+### 👾 GitHub Contribution With Pacman
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shofiyatunnisa9/shofiyatunnisa9/output/pacman-contribution-graph-dark.svg">
