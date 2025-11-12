@@ -1,4 +1,4 @@
-## Welcome to My Github Profile 👋
+## Welcome to My GitHub Profile 👋
 
 ![Banner](/img/github-header-banner.png)
 
@@ -7,8 +7,11 @@
 ## 🧠 About Me
 
 🎓 I’m an Informatics Engineering graduate who is actively growing and learning as a Full Stack Developer.
-💻 Deeply fascinated by web development - dedicated to crafting clean, user-centric applications that solve real problems.  
-🌱 Committed to lifelong learning - constantly exploring new technologies and frameworks to build a strong technical foundation.  
+
+💻 Deeply fascinated by web development - dedicated to crafting clean, user-centric applications that solve real problems.
+
+🌱 Committed to lifelong learning - constantly exploring new technologies and frameworks to build a strong technical foundation.
+
 🚀 Growth through consistency - I believe curiosity and daily improvement are the keys to becoming a better developer.
 
 ---
