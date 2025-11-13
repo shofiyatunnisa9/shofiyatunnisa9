@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=000000&width=435&lines=Welcome+to+my+Github+Profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Banner](/img/github-header-banner.png)
 
