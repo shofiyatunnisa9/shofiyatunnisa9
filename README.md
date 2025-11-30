@@ -1,10 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=#44FFA6FF&width=435&lines=Welcome+to+my+Github+Profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=44FFA6FF&width=435&lines=Welcome+to+my+Github+Profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Banner](/img/github-header-banner.png)
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=#44FFA6FF&width=435&lines=%F0%9F%A7%A0+About+Me)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=44FFA6FF&width=435&lines=%F0%9F%A7%A0+About+Me)](https://git.io/typing-svg)
 
 🎓 I’m an Informatics Engineering graduate who is actively growing and learning as a Full Stack Developer.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=#44FFA6FF&width=435&lines=%F0%9F%A7%A9+My+Skills)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=44FFA6FF&width=435&lines=%F0%9F%A7%A9+My+Skills)](https://git.io/typing-svg)
 
 ### 🖥️ Frontend Development
 
@@ -57,13 +57,13 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=#44FFA6FF&width=435&lines=%F0%9F%93%8C+Connect+With+Me)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=44FFA6FF&width=435&lines=%F0%9F%93%8C+Connect+With+Me)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shofiyatunnisa) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shofiyatunnisa939@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shofiyatunnisaa)
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=#44FFA6FF&width=435&lines=%F0%9F%93%8A+My+GitHub+Stats)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=44FFA6FF&width=435&lines=%F0%9F%93%8A+My+GitHub+Stats)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiyatunnisa9&layout=compact&card_width=800&theme=graywhite)
 
