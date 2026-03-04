@@ -63,7 +63,7 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=#44FFA6FF&width=435&lines=%F0%9F%91%BE+GitHub+Contribution+With+Pacman)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=44FFA6&width=435&lines=%F0%9F%91%BE+Github+Contribution+with+Pacman)](https://git.io/typing-svg)
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shofiyatunnisa9/shofiyatunnisa9/output/pacman-contribution-graph-dark.svg">
