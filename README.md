@@ -63,12 +63,6 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=44FFA6FF&width=435&lines=%F0%9F%93%8A+My+GitHub+Stats)](https://git.io/typing-svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiyatunnisa9&layout=compact&card_width=800&theme=graywhite)
-
----
-
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=#44FFA6FF&width=435&lines=%F0%9F%91%BE+GitHub+Contribution+With+Pacman)](https://git.io/typing-svg)
 
  <picture>
